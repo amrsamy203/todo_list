@@ -20,10 +20,10 @@ samples, guidance on mobile development, and a full API reference.
  - 2- install flutter  [https://flutter.dev/docs/get-started/install/windows]
  - 3- Open pubspec.yaml file and add the following dependencies
      - dependencies:
-        flutter:
-          sdk: flutter
-        sqflite:
-        path_provider:
+       - flutter:
+        - sdk: flutter
+        - sqflite:
+        - path_provider:
 
 ## References
  1- https://flutter.dev/docs/cookbook/persistence/sqlite
