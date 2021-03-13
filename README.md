@@ -19,7 +19,7 @@ samples, guidance on mobile development, and a full API reference.
  - 1- install Dart Sdk [https://dart.dev/get-dart]
  - 2- install flutter  [https://flutter.dev/docs/get-started/install/windows]
  - 3- Open pubspec.yaml file and add the following dependencies
-      dependencies:
+     - dependencies:
         flutter:
           sdk: flutter
         sqflite:
