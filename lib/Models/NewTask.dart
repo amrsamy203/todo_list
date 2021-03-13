@@ -40,6 +40,8 @@ class ToDo {
     map['description'] = _description;
     map['date'] = _date;
     map['category'] = _category;
+
+    return map;
   }
   // Extract a Note object from a Map object
   ToDo.fromMapObject(Map<String, dynamic> map) {
